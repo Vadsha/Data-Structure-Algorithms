@@ -1,3 +1,5 @@
+// Big 0 : log n base 2
+
 function binarySearch(array , item) {
     let start = 0;
     let end = array.length - 1;

@@ -8,7 +8,6 @@ Welcome to my Data Structures and Algorithms practice repository. This repositor
 - [Getting Started](#getting-started)
 - [Folder Structure](#folder-structure)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
