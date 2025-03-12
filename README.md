@@ -27,8 +27,7 @@ The repository is organized as follows:
 
 ```
 dsa-practice/
-├── arrays/
-├── linked-lists/
+├── data-structures/
 ├── stacks/
 ├── queues/
 ├── trees/
